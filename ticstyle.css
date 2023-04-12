@@ -1,0 +1,53 @@
+/* Styles for the game board */
+h1 {
+    text-align: center;
+    font-size: 75px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin: 50px auto;
+  }
+  
+  td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    border: 2px solid black;
+    cursor: pointer;
+  }
+  
+  td:hover {
+    background-color: lightgray;
+  }
+  
+  /* Styles for the message area */
+  #message {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  /* Styles for the reset button */
+  #reset-button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 10px 20px;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    
+  }
+  
+  #reset-button:hover {
+    background-color: #3e8e41;
+  }
+  
+  

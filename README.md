@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic Tac Toe Java Script
+Tic Tac Toe JavaScript
